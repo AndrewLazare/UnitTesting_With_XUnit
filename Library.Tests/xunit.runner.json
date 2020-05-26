@@ -1,0 +1,4 @@
+//This changes our task explorer view.  Allow us to see just the mothod name.
+{
+  "methodDisplay" : "method"
+}
